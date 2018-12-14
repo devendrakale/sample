@@ -1,0 +1,28 @@
+
+
+.h3{
+    text-align: center;
+}
+.container-fluid{
+    background-color: whitesmoke;
+    align-items: center;
+    display: inline-block;
+}
+.text-center{
+    align-items: center
+}
+.form-signin{
+    align-items: center;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.card{
+    /* border: 1px solid black; */
+    z-index: 5;
+    border-radius: 10px;
+}
+.ptforcard{
+    padding-top: 10%;
+}
